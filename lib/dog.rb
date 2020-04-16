@@ -4,3 +4,4 @@ def initialize(name)
 end 
 
 def name 
+  @name 
