@@ -7,3 +7,4 @@ def name
   @name 
 end 
 end 
+Dog.new 
